@@ -48,7 +48,7 @@ No external libraries required — only built-in `math` module is used.
 
 &bull; Division (with error handling)
 
-# <b> Advanced Operations:</b>
+## <b> Advanced Operations:</b>
 
 &bull; Power (x^y)
 
@@ -64,7 +64,7 @@ No external libraries required — only built-in `math` module is used.
 
 &bull; Logarithm (base 10 only, positive numbers)
 
-# <b> Error handling for:</b>
+## <b> Error handling for:</b>
 
 &bull;  Division by zero
 
@@ -75,7 +75,7 @@ No external libraries required — only built-in `math` module is used.
 &bull; Loop continues until user exits
 
 ## 🖼️ Screenshots
-![image]()
+![image](https://github.com/Roshan-470/Advanced-calculator-/blob/main/Screenshot%202025-06-20%20141112.png?raw=true)
 
 ## 🚀 Future Enhancements
 ### &bull;Add support for:
