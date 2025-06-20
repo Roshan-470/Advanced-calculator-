@@ -1,0 +1,66 @@
+📖 Detailed Explanation
+This section explains how the calculator code works step-by-step in simple language:
+
+🧮 1. Math Module Import
+• 📥 The program begins by importing the math module.
+• 🧠 This allows the use of advanced mathematical operations like square root, trigonometric functions, and logarithms.
+
+📋 2. Menu Display Function
+• 🛠️ A function named show_menu() is defined to display the list of available calculator operations.
+• 🔁 This function is called every time before asking the user to select an option.
+
+🔁 3. Main Loop Execution
+• 🔄 A while True loop keeps the calculator running continuously until the user decides to exit.
+• 📥 Inside the loop, the menu is shown and the user's choice is taken as input.
+
+➕ 4. Addition Operation
+• ➗ Takes two numbers as input.
+• ➕ Adds them and prints the result.
+
+➖ 5. Subtraction Operation
+• ➖ Subtracts the second number from the first one.
+• 📤 Outputs the result.
+
+✖️ 6. Multiplication Operation
+• 🔢 Multiplies the two input numbers.
+• 📤 Displays the product.
+
+➗ 7. Division Operation
+• ⚠️ Asks for numerator and denominator.
+• 🚫 Checks if the denominator is zero to avoid crash.
+• ✔️ If valid, performs division and shows the result.
+  
+🔋 8. Power Operation
+• 🧮 Takes base and exponent as input.
+• 🧱 Raises the base to the power of exponent using mathematical function.
+• 📤 Prints the final result.
+
+📏 9. Square Root Operation
+• ✅ Takes one number as input.
+• 🚫 If the number is negative, shows an error.
+• ✔️ Otherwise, calculates and prints the square root.
+
+📐 10. Trigonometric Functions
+• 📥 Takes an angle in degrees.
+• 🔁 Converts degrees to radians.
+
+🎯 Calculates:
+
+• ✅ Sine of the angle
+• ✅ Cosine of the angle
+• ✅ Tangent of the angle
+• 📤 Displays the result of each function.
+
+🔢 11. Logarithm (Base 10)
+• 📥 Takes a positive number as input.
+• 🚫 If the number is zero or negative, shows an error.
+• ✔️ If valid, calculates and displays the base-10 logarithm.
+
+🚪 12. Exit Option
+• ❌ If the user selects 11 or types "exit", the loop breaks.
+• 🙋‍♂️ A message is shown thanking the user and the program ends.
+
+🚫 13. Invalid Input Handling
+• ❗ If the user enters a value other than 1 to 11, it shows an error message.
+• 🔁 Prompts the user to try again with a valid input.
+
